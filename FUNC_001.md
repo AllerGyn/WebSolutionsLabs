@@ -1,5 +1,6 @@
 Задания по теме «Функции»
-kodaktor.ru/func_001 (goss_concat)
+<kodaktor.ru/func_001/> 
+(goss_concat)
 
 Код:
 <button>Посмотреть результат задания!</button>  
