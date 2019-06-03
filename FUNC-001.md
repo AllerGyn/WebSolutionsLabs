@@ -3,6 +3,7 @@
 (goss_concat)
 
 Код:
+{<pre><code>
 <button>Посмотреть результат задания!</button>  
 <script type="text/javascript">
    console.clear();
@@ -23,5 +24,6 @@
 }
   showColor(0, 32, 172);
 </script>
+{</pre></code>
 
 Результат: Вывод с кнопкой и цветом (заданный)
