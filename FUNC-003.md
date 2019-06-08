@@ -9,10 +9,11 @@
 // импортировать её сюда
 // с помощью метода bind привязать к её аргументу значение 5
 // и вызвать для получения результата 25
-import qv from './j/func_003_export';
-var g = qv.bind("Context");
+import qv from '/j/func_003_export';
+var g = qv.bind(null,5);
 // здесь ваш ответ 
-Out.log(g(5));
+Out.log(g());
+
 </code></pre>
 
 Код по адресу <https://kodaktor.ru/j/func_003_export/>:
@@ -22,3 +23,4 @@ export default qv;
 </code></pre>
 
 Результат: 25
+Ссылка на форк: <https://kodaktor.ru/?!=func_79fd2>
