@@ -17,17 +17,8 @@ Out.log(g(5));
 
 Код по адресу <https://kodaktor.ru/j/func_003_export/>:
 <pre><code>
-// Дано: функция, экспортированная по адресу 
-// kodaktor.ru/j/func_003_export
-
-// Выполнить: 
-// импортировать её сюда
-// с помощью метода bind привязать к её аргументу значение 5
-// и вызвать для получения результата 25
-import qv from './j/func_003_export';
-var g = qv.bind("Context");
-// здесь ваш ответ 
-Out.log(g(5));
+const qv = x => x * x;
+export default qv;
 </code></pre>
 
 Результат: 25
