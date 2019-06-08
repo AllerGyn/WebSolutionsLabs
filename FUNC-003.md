@@ -15,7 +15,7 @@ var g = qv.bind("Context");
 Out.log(g(5));
 </code></pre>
 
-Код по адресу <kodaktor.ru/j/func_003_export>:
+Код по адресу <https://kodaktor.ru/j/func_003_export/>:
 <pre><code>
 // Дано: функция, экспортированная по адресу 
 // kodaktor.ru/j/func_003_export
