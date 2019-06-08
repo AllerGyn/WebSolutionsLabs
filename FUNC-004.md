@@ -21,4 +21,4 @@ export default (...funcs) => funcs.reduce((accum, fn) => (...args) => accum(fn(.
 36
 26
 
-Ссылка на форк: <https://kodaktor.ru/func_3068e>
+Ссылка на форк: <https://kodaktor.ru/func_f3993>
