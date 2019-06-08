@@ -23,4 +23,5 @@ export default qv;
 </code></pre>
 
 Результат: 25
+
 Ссылка на форк: <https://kodaktor.ru/?!=func_79fd2>
