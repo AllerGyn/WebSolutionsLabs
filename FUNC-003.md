@@ -24,4 +24,4 @@ export default qv;
 
 Результат: 25
 
-Ссылка на форк: <https://kodaktor.ru/?!=func_79fd2>
+Ссылка на форк: <https://kodaktor.ru/func_79fd2>
