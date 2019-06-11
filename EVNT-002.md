@@ -4,8 +4,8 @@
 
 Код программы:
 <pre><code>
-<div id="writer" title="♥️"><h2>Отправитель события</h2></div>
-    <div id="reader" title="⭐️"><h2>Получатель события</h2></div>
+<div id="writer" title="♥️"><h2>Отправитель события</2></div>
+    <div id="reader" title="⭐️"><h2>Получатель события</2></div>
    
     <script>{
     
