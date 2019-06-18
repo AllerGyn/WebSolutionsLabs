@@ -6,14 +6,14 @@
 <pre><code>
  <button>Поехали</button>
 <ol id="values">
-  <li>10</li>
-  <li>20</li>
-  <li>30</li>
+  10
+  20
+  30
 </ol>
 <ol id="urls">
-  <li>https://kodaktor.ru/api/m/</li>
-  <li>https://kodaktor.ru/api/MS2/</li>
-  <li>https://kodaktor.ru/api/MS3/</li>
+  https://kodaktor.ru/api/m/
+  https://kodaktor.ru/api/MS2/
+ https://kodaktor.ru/api/MS3/
 </ol>
 </code></pre>
 
