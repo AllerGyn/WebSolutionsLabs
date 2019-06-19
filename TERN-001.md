@@ -1,5 +1,6 @@
 TERN-001
 Задание на тернарный оператор
+
 <https://kodaktor.ru/tern_001/>
 
 Код:
@@ -15,3 +16,5 @@ TERN-001
 
 Результат:
 notSure
+
+Ссылка на форк: <https://kodaktor.ru/tern_4b52a>
