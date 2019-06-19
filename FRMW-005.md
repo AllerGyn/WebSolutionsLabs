@@ -25,4 +25,4 @@ vm = new Vue({
 
 Результат: микшер цветов
 
-Ссылка на форк: <https://kodaktor.ru/bind02032018_854a7>
+Ссылка на форк: <https://kodaktor.ru/test_2693c>
