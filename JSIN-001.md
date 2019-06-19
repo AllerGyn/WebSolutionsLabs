@@ -28,3 +28,5 @@ Out.log(x1)
 3834
 0.375
 -6
+
+Ссылка на форк: <https://kodaktor.ru/jsin_f314a>
