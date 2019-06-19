@@ -1,6 +1,7 @@
-Задания по теме «Функции»
+Задания по теме «Функции» (goss_concat)
+
 <https://kodaktor.ru/func_001/> 
-(goss_concat)
+
 
 Код:
 {<pre><code>
@@ -27,3 +28,5 @@
 {</pre></code>
 
 Результат: Вывод с кнопкой и цветом (заданный)
+
+Ссылка на форк: <https://kodaktor.ru/task_func_b9daa>
